@@ -1,2 +1,3 @@
-# Hotel_Siddhartha_Rajgir
-HOTEL SIDDHARTHA RAJGIR, NALANDA, BIHAR
+# Welcome to your Lovable project
+
+TODO: Document your project here
